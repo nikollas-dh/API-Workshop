@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "APIWorkshop.Controllers.RankingController",
+    "Method": "GetParticipantes",
+    "RelativePath": "api/Ranking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIWorkshop.Controllers.RankingController",
+    "Method": "GetParticipantesByMaxPonto",
+    "RelativePath": "api/Ranking",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pontos",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
