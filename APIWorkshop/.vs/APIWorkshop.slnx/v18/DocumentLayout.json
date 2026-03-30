@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\",
+  "WorkspaceRootPath": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\repositories\\rankingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\repositories\\rankingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\contexts\\workshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\contexts\\workshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\contexts\\workshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\contexts\\workshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\repositories\\rankingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\repositories\\rankingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\viewmodels\\participanteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\viewmodels\\participanteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\viewmodels\\participanteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\viewmodels\\participanteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\domains\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\domains\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\domains\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\domains\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\dev\\documents\\c#\\apiworkshop\\apiworkshop\\apiworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2469ADEA-516E-4CDB-8664-26614AE6585E}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\apiworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|c:\\users\\nikollas\\documents\\api-workshop\\apiworkshop\\apiworkshop\\apiworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70059B44-D04E-46E3-6616-16108AF771B7}|APIWorkshop\\APIWorkshop.csproj|solutionrelative:apiworkshop\\apiworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +38,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Program.cs",
               "RelativeDocumentMoniker": "APIWorkshop\\Program.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Program.cs",
               "RelativeToolTip": "APIWorkshop\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T17:32:48.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T17:32:48.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WorkshopContext.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Contexts\\WorkshopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Contexts\\WorkshopContext.cs",
               "RelativeDocumentMoniker": "APIWorkshop\\Contexts\\WorkshopContext.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Contexts\\WorkshopContext.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Contexts\\WorkshopContext.cs",
               "RelativeToolTip": "APIWorkshop\\Contexts\\WorkshopContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T17:27:13.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T17:27:13.543Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RankingController.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Controllers\\RankingController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Controllers\\RankingController.cs",
               "RelativeDocumentMoniker": "APIWorkshop\\Controllers\\RankingController.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Controllers\\RankingController.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Controllers\\RankingController.cs",
               "RelativeToolTip": "APIWorkshop\\Controllers\\RankingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,55 +79,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RankingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Repositories\\RankingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Repositories\\RankingRepository.cs",
               "RelativeDocumentMoniker": "APIWorkshop\\Repositories\\RankingRepository.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Repositories\\RankingRepository.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Repositories\\RankingRepository.cs",
               "RelativeToolTip": "APIWorkshop\\Repositories\\RankingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T16:37:33.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T16:37:33.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ParticipanteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\ViewModels\\ParticipanteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\ViewModels\\ParticipanteViewModel.cs",
               "RelativeDocumentMoniker": "APIWorkshop\\ViewModels\\ParticipanteViewModel.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\ViewModels\\ParticipanteViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\ViewModels\\ParticipanteViewModel.cs",
               "RelativeToolTip": "APIWorkshop\\ViewModels\\ParticipanteViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T16:40:23.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T16:40:23.17Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Participante.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Domains\\Participante.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Domains\\Participante.cs",
               "RelativeDocumentMoniker": "APIWorkshop\\Domains\\Participante.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\Domains\\Participante.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\Domains\\Participante.cs",
               "RelativeToolTip": "APIWorkshop\\Domains\\Participante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T16:38:36.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T16:38:36.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "APIWorkshop",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\APIWorkshop.csproj",
+              "Title": "APIWorkshop.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\APIWorkshop.csproj",
               "RelativeDocumentMoniker": "APIWorkshop\\APIWorkshop.csproj",
-              "ToolTip": "C:\\Users\\dev\\Documents\\c#\\APIWorkshop\\APIWorkshop\\APIWorkshop.csproj",
+              "ToolTip": "C:\\Users\\Nikollas\\Documents\\API-Workshop\\APIWorkshop\\APIWorkshop\\APIWorkshop.csproj",
               "RelativeToolTip": "APIWorkshop\\APIWorkshop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T16:36:19.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T16:36:19.217Z"
             }
           ]
         }

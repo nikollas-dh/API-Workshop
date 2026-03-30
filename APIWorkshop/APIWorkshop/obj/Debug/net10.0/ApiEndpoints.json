@@ -11,16 +11,32 @@
   },
   {
     "ContainingType": "APIWorkshop.Controllers.RankingController",
+    "Method": "GetParticipantesOrdered",
+    "RelativePath": "api/Ranking/!\u003Epo/{pontos}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pontos",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIWorkshop.Controllers.RankingController",
     "Method": "GetParticipantesByMaxPonto",
-    "RelativePath": "api/Ranking",
-    "HttpMethod": "",
+    "RelativePath": "api/Ranking/\u003C/{pontos}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "pontos",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
